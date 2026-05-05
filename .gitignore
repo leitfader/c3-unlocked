@@ -59,8 +59,6 @@ Thumbs.db
 lcov.info
 !android/app/src/main/kotlin/**/*.kt
 !android/app/src/main/res/
-
-# New generated platform files (if you don't want them)
 ios/
 macos/
 windows/
