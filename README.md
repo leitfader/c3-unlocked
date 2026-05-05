@@ -16,6 +16,6 @@ This app would not exist without the incredible work of the Chaos Computer Club 
 
 ## How This Came to Be
 
-I built this app from scratch because I wanted a mobile-friendly way to enjoy CCC content. After finishing my first version, I discovered ChaosFlix — an older app with a similar idea. ChaosFlix served its purpose well, but it's showing its age. Rather than letting my work sit unused, I decided to publish this as a modern alternative for today's mobile devices. 
+I built this app from scratch because I wanted a mobile-friendly way to enjoy CCC content. After finishing my first version, I discovered ChaosFlix — an older app with a similar idea. ChaosFlix[github.com/NiciDieNase/chaosflix] served its purpose well, but it's showing its age. Rather than letting my work sit unused, I decided to publish this as a modern alternative for today's mobile devices. 
 
 
