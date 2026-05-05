@@ -1,3 +1,5 @@
+<img width="417" height="118" alt="Screenshot_20260506_001209" src="https://github.com/user-attachments/assets/da1715b8-f9f5-4f8a-9380-51b58be71989" />
+
 # c3-UNLOCKED
 
 Flutter Android app for browsing media.ccc.de, streaming talks, downloading MP4 files through Android DownloadManager, and watching saved talks later from the app.
